@@ -1,0 +1,4 @@
+{
+    "raw_data_path" : "../data/raw/",
+    "extracted_data_path" : "../data/extracted/"
+}
